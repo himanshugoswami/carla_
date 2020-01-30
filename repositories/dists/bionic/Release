@@ -1,0 +1,16 @@
+Codename: bionic
+Date: Thu, 30 Jan 2020 12:25:54 UTC
+Architectures: amd64
+Components: main
+MD5Sum:
+ 56d5580b010f03c586962abae4da63fd 520 main/binary-amd64/Packages
+ e3e64f21c1fe23ff7eb0e6f8344a7d23 381 main/binary-amd64/Packages.gz
+ 063287201b2354699acfe229a752201d 36 main/binary-amd64/Release
+SHA1:
+ 1589fcf9132d0d14b687753b61e00a699ad6d0c0 520 main/binary-amd64/Packages
+ bd9b3c11cec76be4488af100c62dbb8f3bec09a0 381 main/binary-amd64/Packages.gz
+ f9082edea14092794f38390390e06abf8a922f7d 36 main/binary-amd64/Release
+SHA256:
+ 3dcffbc8e237efc56d7d610314fbd83e20c4203d2f0f18c98e703b99a45d7eca 520 main/binary-amd64/Packages
+ af3e5310c0a25f8596dc90ad1b7bbe9c821ea1adc5a66b2c5d0d640ebddb9cbe 381 main/binary-amd64/Packages.gz
+ f4aafa353a338baedf9e98523c13d7ffeda979ec3cf745f9fad977dd770595c8 36 main/binary-amd64/Release

@@ -1,0 +1,16 @@
+Package: test
+Version: 0.0.1-1
+Architecture: all
+Maintainer: Himanshu Goswami <himanshu@unknown>
+Installed-Size: 21
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/t/test/test_0.0.1-1_all.deb
+Size: 5000
+SHA256: 605fca1ee00a4524c7c288d5bd6edceede8a662bf8cf1bfeb32a41d12c6863e3
+SHA1: 8ff404d432f797fc217e24776fd75aeddf0feb0e
+MD5sum: 0275284d2b7ffef415796eeafac0f7e2
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+
